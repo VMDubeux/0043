@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\0043\0043\0043\bin\Debug\net7.0\0043.exe
+C:\Users\User\Documents\GitHub\0043\0043\0043\bin\Debug\net7.0\0043.deps.json
+C:\Users\User\Documents\GitHub\0043\0043\0043\bin\Debug\net7.0\0043.runtimeconfig.json
+C:\Users\User\Documents\GitHub\0043\0043\0043\bin\Debug\net7.0\0043.dll
+C:\Users\User\Documents\GitHub\0043\0043\0043\bin\Debug\net7.0\0043.pdb
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\0043.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\0043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\0043.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\0043.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\0043.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\0043.dll
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\refint\0043.dll
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\0043.pdb
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\0043.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\0043\0043\0043\obj\Debug\net7.0\ref\0043.dll
